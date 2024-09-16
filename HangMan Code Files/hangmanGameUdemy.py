@@ -1,5 +1,6 @@
 import random
-
+import time
+#i added another library with the name of  time in this code, please review and check functionaaity
 #this line is used in order to import the code from the hangman_word and hangman_art files
 from hangman_words import word_list
 from hangman_art import stages, logo
